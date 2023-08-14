@@ -32,12 +32,21 @@ Before running the script, you need to have the following:
 ### Usage
 
 - Run the script using the following command:
+   ```bash
+    python Question_generator_prompt.py #for Question generator
+    ```
     ```bash
-    python mcq_generator.py
+    python QuestionAnswer_generator_prompt.py #for Question-Answer generator
+    ```
+    ```bash
+    python MCQ_generator_from_text.py #for MCQs
+    ```
+    ```bash
+    python Multiple-Choice_Question_(MCQ)_geneartor_prompt.py #for MCQs
     ```
 - Enter the text for which you want to generate questions and answers when prompted.
 
-- The script will generate relevant questions and answers using OpenAI's GPT-3 API and display them on the console.
+- The script will generate relevant Questions, Question-Answers, and MCQs using OpenAI's GPT-3 API and display them on the console.
 
-- The generated questions and answers will also be saved to a CSV file named generated_qa_results.csv in the same directory.
+- The generated QAs will also be saved to a CSV file named generated_qa_results.csv in the same directory.
    
