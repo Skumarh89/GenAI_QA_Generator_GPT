@@ -26,7 +26,7 @@ Before running the script, you need to have the following:
    ```
 - Install the required packages using the following command:
   ```bash
-  pip install -r requirements.txt
+  pip install -r requirements_QA_Gen.txt
   ```
 
 ### Usage
