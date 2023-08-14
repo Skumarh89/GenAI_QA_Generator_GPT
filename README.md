@@ -1,8 +1,8 @@
 # GenAi_QA_Generator_GPT
 
 ### Multiple-Choice Question (MCQ) Generator
-
-This Python script generates multiple-choice questions (MCQs) based on user-provided input text using OpenAI's GPT-3 API. It generates a relevant MCQ stem along with distractors (incorrect options) for the question.
+This repository contains a Python script that utilizes OpenAI's GPT-3 API to generate relevant Questions, Question-Answers from a given text input.
+The repository contains a Python script that also generates multiple-choice questions (MCQs) based on input text. It generates a relevant MCQ stem along with distractors (incorrect options) for the question.
 
 ### Prerequisites
 
